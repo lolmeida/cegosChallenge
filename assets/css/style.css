@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+
+
+}
+
+
+
+h1 {
+    color: rgba(214, 18, 57, 0.635) !important;
+    text-align: center;
+}
+
+input,
+select,
+textarea {
+    border-radius: 15px !important;
+    padding: 15px;
+    text-align: center;
+    border-color: rgba(214, 18, 57, 0.635) !important;
+
+}
+
+.btn {
+    border-radius: 15px !important;
+    padding: 5px;
+    text-align: center;
+    background-color: white !important;
+    text-transform: uppercase !important;
+    height: 35px;
+    color: rgba(214, 18, 57, 0.635);
+
+
+}
+
+.btn:hover {
+    border-radius: 15px !important;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(214, 18, 57, 0.635) !important;
+    text-transform: uppercase !important;
+    height: 35px;
+    color: aliceblue;
+
+}
+
+#message {
+    border-radius: 15px !important;
+    padding: 15px;
+    text-align: center;
+
+
+}
+
+
+
+
+.row.track {
+    align-content: center;
+    align-items: center;
+}
+
+tr:nth-child(even){
+    background-color: rgba(214, 18, 57, 0.635) !important;
+    color: white;
+}
